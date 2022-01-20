@@ -4,7 +4,7 @@ import java.util.List;
 public class Game {
     public static void main(String[] args) {
     }
-    private List<Integer> chessmans = new ArrayList<>();
+    private final List<Chessman> chessmans = new ArrayList<>();
     private Color nowMoving;
 
 

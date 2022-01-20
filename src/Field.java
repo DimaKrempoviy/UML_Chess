@@ -1,4 +1,4 @@
 public class Field {
-    Column column;
-    int row = 8;
+    private Column column;
+    private int row = 8;
 }
